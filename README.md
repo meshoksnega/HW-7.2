@@ -1,3 +1,4 @@
+```
 <!DOCTYPE html>
 <html lang="uk">
 <head>
@@ -68,3 +69,4 @@
     </div>
 </body>
 </html>
+```
